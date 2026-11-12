@@ -1,8 +1,8 @@
-# Андрей Чугайнов
+![Андрей Чугайнов — Backend-разработчик на Go](banner.png)
 
-Go backend-разработчик из Перми. Пишу REST API и сервисы на Go, работаю с PostgreSQL, SQLite и Redis, упаковываю в Docker и покрываю тестами в CI. Использую Claude Code для разработки и ревью, каждое изменение проверяю тестами.
+Backend-разработчик на Go, Пермь. REST API, PostgreSQL и SQLite, Redis, Docker, CI в GitHub Actions.
 
-Ищу работу Junior Go-разработчиком: [Telegram @chugastok](https://t.me/chugastok) · sprunk59@yandex.ru
+Связь: [Telegram @chugastok](https://t.me/chugastok) · sprunk59@yandex.ru
 
 ## Стек
 
@@ -19,7 +19,7 @@ Go backend-разработчик из Перми. Пишу REST API и серв
 
 | Проект | Что это | Стек |
 |---|---|---|
-| [vetKlinika](https://github.com/Chugerbuller/vetKlinika) | Система учёта клиентов, питомцев и приёмов, работает в ветеринарной клинике | Go, SQLite, REST API |
+| [vetKlinika](https://github.com/Chugerbuller/vetKlinika) | Учёт клиентов, питомцев и приёмов для ветклиники | Go, SQLite, REST API |
 | [caching-proxy](https://github.com/Chugerbuller/caching-proxy) | Прокси-сервер, кэширующий ответы внешнего API в Redis | Go, Gin, Redis, Docker Compose |
 | [task-scheduler](https://github.com/Chugerbuller/task-scheduler) | Планировщик задач с повторениями, JWT-авторизацией и веб-интерфейсом | Go, SQLite, JWT, Docker |
 | [CloudStorage](https://github.com/Chugerbuller/CloudStorage) | Облачное хранилище файлов с desktop-клиентом | C#, ASP.NET Core, PostgreSQL |
